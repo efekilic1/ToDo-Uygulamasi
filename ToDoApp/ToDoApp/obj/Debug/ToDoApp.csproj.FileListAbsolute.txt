@@ -1,0 +1,6 @@
+/Users/muhammedkilic/Projects/ToDoApp/ToDoApp/obj/Debug/ToDoApp.csproj.AssemblyReference.cache
+/Users/muhammedkilic/Projects/ToDoApp/ToDoApp/obj/Debug/ToDoApp.csproj.CoreCompileInputs.cache
+/Users/muhammedkilic/Projects/ToDoApp/ToDoApp/bin/Debug/ToDoApp.exe
+/Users/muhammedkilic/Projects/ToDoApp/ToDoApp/bin/Debug/ToDoApp.pdb
+/Users/muhammedkilic/Projects/ToDoApp/ToDoApp/obj/Debug/ToDoApp.exe
+/Users/muhammedkilic/Projects/ToDoApp/ToDoApp/obj/Debug/ToDoApp.pdb
